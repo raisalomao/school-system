@@ -1,1 +1,1 @@
-# school-system
+# Sistema Escolar em C
