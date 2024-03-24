@@ -1,1 +1,1 @@
-# Sistema Escolar em C
+# Project School System in C
